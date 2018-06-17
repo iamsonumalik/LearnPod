@@ -1,0 +1,16 @@
+PODS:
+  - LearnPod (0.1.0)
+
+DEPENDENCIES:
+  - LearnPod (from `../`)
+
+EXTERNAL SOURCES:
+  LearnPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LearnPod: 54d0ee190a6858af8e8e849f86c90c2fbd28bccd
+
+PODFILE CHECKSUM: 7debde0ea845a113ce459963628ddcda2de782ed
+
+COCOAPODS: 1.5.3
